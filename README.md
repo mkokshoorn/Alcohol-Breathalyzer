@@ -2,7 +2,9 @@
 
 Electronics project (hardware only) to design and implement an alcohol breathalyzer with an analog-only component constraint. For complete doccumentation, refer to the final_report.pdf.
 
-# Tina Schematics
+# TINA Schematics
+
+To simulate the analog signal processing of the sensor output, the circuit fucntional groups were modelled in TINA as shown below. 
 
 <img src="https://github.com/mkokshoorn/Alcohol_Breathalyzer/blob/master/TinaCircuit.png" width="780">
 
